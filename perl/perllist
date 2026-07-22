@@ -26,3 +26,8 @@ perl-version.x86_64
 /usr/share/perl5/vendor_perl/ExtUtils/Liblist.pm
 /usr/share/perl5/vendor_perl/ExtUtils/Liblist/Kid.pm
 
+TileDB:
+/usr/share/perl5/vendor_perl/IPC/Cmd.pm
+/usr/lib64/perl5/Time/Piece.pm
+
+

@@ -73,6 +73,24 @@ function makeModelSelection() {
    option.value= "disabled";
    sel.add(option);
 
+/*
+   if(isModelInstalled("muscal") && isModelInstalled("1d")) {
+   option = document.createElement("option");
+   option.text = "MUSCAL,SF1D";
+   option.label = "MUSCAL,SF1D";
+   option.value= "muscal,sf1d";
+   sel.add(option);
+   }
+
+   if(isModelInstalled("muscal") && isModelInstalled("1d")) {
+   option = document.createElement("option");
+   option.text = "MUSCAL,MUSCAL1D";
+   option.label = "MUSCAL,MUSCAL1D";
+   option.value= "muscal,muscal1d";
+   sel.add(option);
+   }
+*/
+
    if(isModelInstalled("cvmh") && isModelInstalled("cs248")) {
    option = document.createElement("option");
    option.text = "CS 248,CVM-H v15.1.1";

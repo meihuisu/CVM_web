@@ -330,7 +330,6 @@ var CVM_tb={
                       {'lon':-115.344866,'lat':33.356203},
                       {'lon':-116.051578,'lat':33.356203} ],
      'color':'#808000'},
-/***
 {'id':27,
      'name':'UW Parkfield',
      'abb name':'uwpkfcvm',
@@ -343,7 +342,6 @@ var CVM_tb={
                       {'lon':-120.30264,'lat':36.66214},
                       {'lon':-121.39028,'lat':35.92063} ],
      'color':'#59b300'},
-***/
 {'id':28,
      'name':'UW Statewide',
      'abb name':'uwlinca',
